@@ -464,7 +464,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2d7899d98b70fb499a94374faa54b26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FPSContrlooer
-  MouseSence: 100
+  MouseSence: 500
   CarmaTranform: {fileID: 776051840}
   PayerBody: {fileID: 2079722319}
   isCarmaAvalible: 1
